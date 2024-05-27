@@ -1,0 +1,1 @@
+var config={to:'ecash:qqhmlncr43wslrc2220amqzasxwc32a2yux75u2cv8',text:'SUPPORT ME',hoverText:'SUPPORT ME',successText:'Thanks for your support!'};PayButton.render(document.getElementById('my_button'),config);
